@@ -5,6 +5,7 @@ I partially follow a guide on YouTube and this is the result.
 Windows Users
 ---
 Follow this link: https://www.youtube.com/watch?v=AdUZArA-kZw
+
 Mac Users
 ---
 *Note: this guide is dated at 22/12/2018. For newer guides, check Homebrew's official website*
