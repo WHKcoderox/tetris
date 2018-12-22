@@ -2,11 +2,11 @@
 I partially follow a guide on YouTube and this is the result.
 
 ## How to install pygame, a library for making games with Python
-### Windows Users
-
-Follow this link: https://www.youtube.com/watch?v=AdUZArA-kZw
+Windows Users
 ---
-### Mac Users
+Follow this link: https://www.youtube.com/watch?v=AdUZArA-kZw
+Mac Users
+---
 *Note: this guide is dated at 22/12/2018. For newer guides, check Homebrew's official website*
 Install Homebrew :
 ```bash
