@@ -9,6 +9,7 @@ Follow this link: https://www.youtube.com/watch?v=AdUZArA-kZw
 Mac Users
 ---
 *Note: this guide is dated at 22/12/2018. For newer guides, check Homebrew's official website*
+
 Install Homebrew :
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
